@@ -8,7 +8,7 @@ A continuación se explica como es el orden para correr cada script y caracterí
   CPU=16
   Memory=256GB
   Disk=256GB
-
+  
   El script se corrió con los siguientes parametros
   - lags ciclo for de 4
   - canaritos_ratio = 0.3
@@ -20,7 +20,7 @@ A continuación se explica como es el orden para correr cada script y caracterí
   CPU=16
   Memory=64GB
   Disk=256GB
-
+  
   El script se corrió con los siguientes parametros
   - kBO_iter=100, 
   - ktraining=202011,202012,202101
