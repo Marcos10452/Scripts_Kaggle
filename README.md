@@ -24,7 +24,7 @@ A continuación se explica como es el orden para correr cada script y caracterí
   El script se corrió con los siguientes parametros
   - kBO_iter=100, 
   - ktraining=202011,202012,202101
-  - kundersampling=30%, 
+  - kundersampling=20%, 
   - repeat= 5 seed, 
   - coverage=80%
   - learning_rate_low<- 0.01
