@@ -4,7 +4,7 @@ Competencia Kaggle Data_mining 20221012
 A continuación se explica como es el orden para correr cada script y características técnicas de las VM
 
 
-1. z815_FE_final_2022108_v1.8.r
+1. z815_FE_final_2022108_v1.8.r -->
   CPU=16
   Memory=256GB
   Disk=256GB
@@ -16,7 +16,7 @@ A continuación se explica como es el orden para correr cada script y caracterí
   - NA
   - Todo lo demas original.
 
-2. z633_lght_RBO_under_v6_GC
+2. z633_lght_RBO_under_v6_GC -->
   CPU=16
   Memory=64GB
   Disk=256GB
@@ -34,7 +34,7 @@ A continuación se explica como es el orden para correr cada script y caracterí
   - min_data_size_low<-0.004 
   - min_data_size_high<-0.05
 
-3. z844_lightgbm_final_sem_m3_v6_GC.r
+3. z844_lightgbm_final_sem_m3_v6_GC.r -->
   CPU=24
   Memory=128GB
   Disk=256GB
